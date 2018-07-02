@@ -7,3 +7,6 @@ List of image stitching approaches<br>
 •	Interactive Digital Photomontage (Siggraph 2004) [Paper](http://grail.cs.washington.edu/projects/photomontage/photomontage.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[Project Page and Sourcecode](http://grail.cs.washington.edu/projects/photomontage/)<br>
 •	Efficient gradient-domain compositing using quadtrees (ACM T.Graphics 2007) [Paper](http://www.agarwala.org/efficient_gdc/preprint.pdf)<br>
 •	Fast Image Blending using Watersheds and Graph Cuts (IVC 2009) [Paper](https://www.researchgate.net/publication/220612279_Fast_Image_Blending_using_Watersheds_and_Graph_Cuts) (Download from Researchgate)<br>
+
+## Deep-learning-based Image Stitching
+•	GP-GAN: Towards Realistic High-Resolution Image Blending (Arxiv 2017) [Paper](http://wuhuikai.me/GP-GAN-Project/)&nbsp;&nbsp;&nbsp;&nbsp;[Project Page](http://wuhuikai.me/GP-GAN-Project/)&nbsp;&nbsp;&nbsp;&nbsp;[Github](https://github.com/wuhuikai/GP-GAN)<br>
