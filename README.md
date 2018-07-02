@@ -8,5 +8,8 @@ List of image stitching approaches<br>
 •	Efficient gradient-domain compositing using quadtrees (ACM T.Graphics 2007) [Paper](http://www.agarwala.org/efficient_gdc/preprint.pdf)<br>
 •	Fast Image Blending using Watersheds and Graph Cuts (IVC 2009) [Paper](https://www.researchgate.net/publication/220612279_Fast_Image_Blending_using_Watersheds_and_Graph_Cuts) (Download from Researchgate)<br>
 
+## Seam-based Image Stitching
+•	SEAGULL: Seam-guided Local Alignment for Parallax-tolerant Image Stitching (ECCV 2016) [Paper](http://publish.illinois.edu/visual-modeling-and-analytics/files/2016/08/Seagull.pdf) (may not be permanent)<br>
+
 ## Deep-learning-based Image Stitching
 •	GP-GAN: Towards Realistic High-Resolution Image Blending (Arxiv 2017) [Paper](http://wuhuikai.me/GP-GAN-Project/)&nbsp;&nbsp;&nbsp;&nbsp;[Project Page](http://wuhuikai.me/GP-GAN-Project/)&nbsp;&nbsp;&nbsp;&nbsp;[Github](https://github.com/wuhuikai/GP-GAN)<br>
